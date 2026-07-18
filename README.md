@@ -26,6 +26,15 @@ An engineer who reads the source, finds the bug, and sends the patch.
 
 **280+ PRs merged** across **30+ repositories**
 
+<details>
+<summary>📌 Notable PRs</summary>
+
+- [**#56872**](https://github.com/rails/rails/pull/56872) Add `start_day` argument to `this_week?` — new API for multi-tenant week-start consistency
+- [**#57245**](https://github.com/rails/rails/pull/57245) Fix `find_signed` for composite primary key models — prior-art gap in CPK support
+- [**#58139**](https://github.com/rails/rails/pull/58139) Harden `load_schema_migrations` — CRLF resilience & duplicate version dedup
+
+</details>
+
 ## Stack
 
 **Languages**
