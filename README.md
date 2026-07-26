@@ -19,7 +19,7 @@ An engineer who reads the source, finds the bug, and sends the patch.
   - Dynamic Client Registration bypass
 - Contributing across [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper), [doorkeeper-openid_connect](https://github.com/doorkeeper-gem/doorkeeper-openid_connect), and [doorkeeper-i18n](https://github.com/doorkeeper-gem/doorkeeper-i18n)
 
-[![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)](https://github.com/rails/rails) **All Time #64** · **210 commits** (as of Jul 18, 2026) · top ~1% of all-time contributors
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)](https://github.com/rails/rails) **All Time #61** · **243 commits** (as of Jul 26, 2026) · top ~1% of all-time contributors
 
 - Merged across **7+ sub-frameworks**: Active Record, Active Support, Action View, Action Cable, Action Mailer, Action Pack, Action Job
 - Featured in **[This Week in Rails](https://world.hey.com/this.week.in.rails)**
