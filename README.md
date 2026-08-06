@@ -17,7 +17,9 @@ An engineer who reads the source, finds the bug, and sends the patch.
 
 - Lead releases since v1.10.0
 - 🛡️ **CVE-2026-44476 Finder** — [GHSA-m6vc-f87m-cc2h](https://github.com/doorkeeper-gem/doorkeeper-openid_connect/security/advisories/GHSA-m6vc-f87m-cc2h)
-  - Dynamic Client Registration bypass
+  * Dynamic Client Registration bypass
+- 🛡️ **CVE-2026-70665 Finder** — [GHSA-8r7r-wh7x-27ff](https://github.com/doorkeeper-gem/doorkeeper-openid_connect/security/advisories/GHSA-8r7r-wh7x-27ff)
+  * DCR endpoint persists unvalidated client-supplied scopes
 - Contributing across [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper), [doorkeeper-openid_connect](https://github.com/doorkeeper-gem/doorkeeper-openid_connect), and [doorkeeper-i18n](https://github.com/doorkeeper-gem/doorkeeper-i18n)
 
 [![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)](https://github.com/rails/rails) **All Time #60** · **257 commits** (as of Aug 5, 2026) · top ~1% of all-time contributors
