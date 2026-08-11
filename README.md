@@ -27,8 +27,6 @@ An engineer who reads the source, finds the bug, and sends the patch.
 - Merged across **7+ sub-frameworks**: Active Record, Active Support, Action View, Action Cable, Action Mailer, Action Pack, Action Job
 - Featured in **[This Week in Rails](https://world.hey.com/this.week.in.rails)**
 
-**280+ PRs merged** across **30+ repositories**
-
 <details>
 <summary>📌 Notable PRs</summary>
 
