@@ -15,7 +15,7 @@ An engineer who reads the source, finds the bug, and sends the patch.
 
 [![Doorkeeper](https://img.shields.io/badge/-Doorkeeper_Ecosystem-4B4B4B?style=flat-square&logo=rubygems&logoColor=white)](https://github.com/doorkeeper-gem) doorkeeper-gem **Org Member**
 
-- doorkeeper-openid_connect **Collaborator** — lead releases since v1.10.0
+- doorkeeper-openid_connect — lead releases since v1.10.0
 - 🛡️ **CVE-2026-44476 Finder** — [GHSA-m6vc-f87m-cc2h](https://github.com/doorkeeper-gem/doorkeeper-openid_connect/security/advisories/GHSA-m6vc-f87m-cc2h)
   * Dynamic Client Registration bypass
 - 🛡️ **CVE-2026-70665 Finder** — [GHSA-8r7r-wh7x-27ff](https://github.com/doorkeeper-gem/doorkeeper-openid_connect/security/advisories/GHSA-8r7r-wh7x-27ff)
