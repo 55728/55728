@@ -34,7 +34,7 @@ doorkeeper-openid_connect:
 
 </details>
 
-[![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)](https://github.com/rails/rails) [**All Time #57** · **300+ commits**](https://contributors.rubyonrails.org/contributors/kenta-ishizaki/commits) · top ~1% of all-time contributors
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)](https://github.com/rails/rails) [**All Time #56** · **300+ commits**](https://contributors.rubyonrails.org/contributors/kenta-ishizaki/commits) · top ~1% of all-time contributors
 
 - Merged across **7+ sub-frameworks**: Active Record, Active Support, Action View, Action Cable, Action Mailer, Action Pack, Active Job
 - Featured in **[This Week in Rails](https://world.hey.com/this.week.in.rails)**
